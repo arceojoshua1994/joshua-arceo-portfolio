@@ -17,6 +17,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/resume" element={<Resume />} />
+          {/* Add other routes as needed */}
         </Routes>
       </div>
     </Router>
