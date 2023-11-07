@@ -1,5 +1,5 @@
 import React from 'react';
-import './ResumePage.css'; // Make sure to create a corresponding CSS file
+// import './ResumePage.css'; 
 
 const ResumePage = () => {
   return (
