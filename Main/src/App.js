@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
-import Header from '../components/Header';
-import Home from '../views/Home';
-import About from '../views/About';
-import Projects from '../views/Projects';
-import Resume from '../views/Resume';
+import Header from './components/Header';
+import Home from './views/Home';
+import About from './views/About';
+import Projects from './views/Projects';
+import Resume from './views/Resume';
 
 function App() {
   return (
